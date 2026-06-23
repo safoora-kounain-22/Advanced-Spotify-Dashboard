@@ -1,25 +1,26 @@
-1. Project Overview
+1. 🎵 Project Title / Headline
+Advanced Spotify Dashboard
 
-The Advanced Spotify Dashboard is an interactive Power BI report designed to analyze music streaming data across artists, albums, songs, and popularity trends. The dashboard provides insights into listener preferences, artist performance, and song distribution, enabling users to explore Spotify data through dynamic visualizations.
+An interactive Power BI dashboard designed to analyze Spotify music data, track artist performance, monitor popularity trends, and provide insights into songs, albums, and listener preferences.
 
-2. Purpose
+2. 📌 Short Description / Purpose
 
-This dashboard helps users understand streaming patterns, identify popular artists and songs, and analyze music trends over time. It enables data-driven exploration of Spotify content through interactive reports and KPIs.
+The Advanced Spotify Dashboard is a visually engaging and analytical Power BI report built to explore Spotify music data through interactive visualizations. The dashboard helps users analyze songs, artists, album types, and popularity trends to understand music consumption patterns and support data-driven insights.
 
-3.Tech Stack
+3. 🛠️ Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
-📊 Power BI Desktop – Used for creating interactive reports and dashboards.
+📊 Power BI Desktop – Main data visualization platform used for report creation.
 📂 Power Query – Used for data cleaning and transformation.
 🧠 DAX (Data Analysis Expressions) – Used for calculated measures and KPIs.
-🔗 Data Modeling – Established relationships between tables for analysis.
+🔗 Data Modeling – Relationships established among tables to enable cross-filtering and analysis.
 📁 File Formats – .pbix for development and .png for dashboard previews.
-4.Data Source
+4. 📂 Data Source
 
 Source: Spotify Songs Dataset
 
-The dataset contains information related to:
+The dataset contains information about:
 
 Song Name
 Artist Name
@@ -27,39 +28,39 @@ Album Type
 Release Year
 Song Duration
 Popularity Score
-Explicit / Non-Explicit Classification
-5. Features & Highlights
-🔍 Business Problem
+Explicit and Non-Explicit Songs
+5. ✨ Features / Highlights
+• Business Problem
 
-With thousands of songs and artists available on streaming platforms, understanding listener preferences and identifying popular content becomes challenging.
+Streaming platforms contain thousands of songs and artists, making it difficult to identify trends and understand listener preferences using raw data.
 
-Questions such as:
+Key questions include:
 
 Which artists have the highest number of songs?
-Which songs are most popular?
+Which songs are the most popular?
 How does popularity change over time?
-What percentage of songs are explicit versus non-explicit?
+What percentage of songs are explicit and non-explicit?
+• Goal of the Dashboard
 
-cannot be easily answered using raw data alone.
+To deliver an interactive visual tool that:
 
-6. Goal of the Dashboard
-Analyze artist and song performance.
-Monitor popularity trends over time.
-Compare album types and release years.
-Provide interactive music insights using visual analytics.
-7. Key KPIs
+Enables users to analyze Spotify music data.
+Tracks artist and song performance.
+Identifies popularity trends over time.
+Provides insights into music consumption patterns.
+• Walkthrough of Key Visuals
+Key KPIs (Left Panel)
 Total Songs: 789
 Total Artists: 342
 Average Duration: 3 Minutes
 Average Popularity: 90
-8.Dashboard Highlights
 Songs and Artist Panel
 
-Displays songs along with their respective artists and album covers.
+Displays songs along with album covers and artist information.
 
 Songs by Album Type
 
-Analyzes the distribution of songs across album categories such as singles, albums, and compilations.
+Analyzes the distribution of songs across singles, albums, and compilations.
 
 Explicit vs Non-Explicit Songs
 
@@ -67,38 +68,30 @@ Shows the proportion of explicit and non-explicit tracks.
 
 Songs by Release Year
 
-Analyzes song counts based on release years.
+Visualizes song distribution based on release years.
 
 Average Popularity Trend
 
-Tracks popularity changes by month and quarter.
+Tracks popularity changes across months and quarters.
 
-Songs by Artist
+Songs by Artists
 
-Identifies artists with the highest number of songs.
+Highlights artists with the highest number of songs.
 
 Top Songs Analysis
 
-Highlights songs with the highest popularity and engagement.
+Displays songs with higher popularity and engagement.
 
 Monthly Song Distribution
 
-Shows the number of songs released across different months.
+Shows the number of songs released in different months.
 
-9. Insights
+• Business Impact & Insights
 Album releases contributed more songs than singles.
-Explicit tracks accounted for a larger share of the dataset.
+Explicit songs represented a larger share of the dataset.
 Certain artists dominated the platform with higher song counts.
-Popularity trends varied across months, providing insights into listener behavior.
-10.Skills Demonstrated
-Data Cleaning
-Data Transformation
-Data Visualization
-Dashboard Development
-KPI Reporting
-DAX Functions
-Music Data Analytics
-Business Intelligence
-
-11.Dashboard Preview
+Popularity trends varied across different months.
+Interactive analysis enables users to explore music patterns efficiently.
+6. 📷 Screenshots / Demos
+Dashboard Preview
    ![Advanced Spotify Dashboard](https://github.com/safoora-kounain-22/Advanced-Spotify-Dashboard/blob/main/Advanced%20Spotify%20Dashboard.png)
