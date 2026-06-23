@@ -1,26 +1,25 @@
-1. 🎵 Project Title / Headline
-Advanced Spotify Dashboard
+1. Project Overview
 
-An interactive Power BI dashboard designed to analyze Spotify music data, track artist performance, monitor popularity trends, and provide insights into songs, albums, and listener preferences.
+The Advanced Spotify Dashboard is an interactive Power BI report designed to analyze Spotify music data, track artist performance, monitor popularity trends, and provide insights into songs, albums, and listener preferences. The dashboard helps users understand music consumption patterns through interactive visualizations and KPI metrics.
 
-2. 📌 Short Description / Purpose
+2. Purpose
 
-The Advanced Spotify Dashboard is a visually engaging and analytical Power BI report built to explore Spotify music data through interactive visualizations. The dashboard helps users analyze songs, artists, album types, and popularity trends to understand music consumption patterns and support data-driven insights.
+This dashboard enables users to explore Spotify data, analyze artist and song performance, monitor popularity trends, and gain insights into music listening patterns. It provides a data-driven approach to understanding streaming behavior and content performance.
 
-3. 🛠️ Tech Stack
+3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
-📊 Power BI Desktop – Main data visualization platform used for report creation.
+📊 Power BI Desktop – Used for creating interactive reports and visualizations.
 📂 Power Query – Used for data cleaning and transformation.
 🧠 DAX (Data Analysis Expressions) – Used for calculated measures and KPIs.
-🔗 Data Modeling – Relationships established among tables to enable cross-filtering and analysis.
-📁 File Formats – .pbix for development and .png for dashboard previews.
-4. 📂 Data Source
+🔗 Data Modeling – Established relationships among tables for analysis.
+📁 File Formats – .pbix for development and .png for dashboard preview.
+4. Data Source
 
 Source: Spotify Songs Dataset
 
-The dataset contains information about:
+The dataset contains information related to:
 
 Song Name
 Artist Name
@@ -29,10 +28,10 @@ Release Year
 Song Duration
 Popularity Score
 Explicit and Non-Explicit Songs
-5. ✨ Features / Highlights
-• Business Problem
+5. Features & Highlights
+Business Problem
 
-Streaming platforms contain thousands of songs and artists, making it difficult to identify trends and understand listener preferences using raw data.
+Music streaming platforms contain thousands of songs and artists, making it difficult to identify trends and understand listener preferences from raw data.
 
 Key questions include:
 
@@ -40,20 +39,17 @@ Which artists have the highest number of songs?
 Which songs are the most popular?
 How does popularity change over time?
 What percentage of songs are explicit and non-explicit?
-• Goal of the Dashboard
-
-To deliver an interactive visual tool that:
-
-Enables users to analyze Spotify music data.
-Tracks artist and song performance.
-Identifies popularity trends over time.
-Provides insights into music consumption patterns.
-• Walkthrough of Key Visuals
-Key KPIs (Left Panel)
+6. Goal of the Dashboard
+Analyze Spotify music data through interactive visualizations.
+Track artist and song performance.
+Identify popularity trends over time.
+Provide insights into music consumption patterns.
+7. Key KPIs
 Total Songs: 789
 Total Artists: 342
 Average Duration: 3 Minutes
 Average Popularity: 90
+8. Dashboard Highlights
 Songs and Artist Panel
 
 Displays songs along with album covers and artist information.
@@ -84,15 +80,25 @@ Displays songs with higher popularity and engagement.
 
 Monthly Song Distribution
 
-Shows the number of songs released in different months.
+Shows the number of songs released across different months.
 
-• Business Impact & Insights
+9. Business Insights
 Album releases contributed more songs than singles.
 Explicit songs represented a larger share of the dataset.
 Certain artists dominated the platform with higher song counts.
 Popularity trends varied across different months.
-Interactive analysis enables users to explore music patterns efficiently.
+Interactive analysis helps users explore music patterns efficiently.
+10. Skills Demonstrated
+Data Cleaning
+Data Transformation
+Data Visualization
+Dashboard Development
+KPI Reporting
+DAX Functions
+Data Modeling
+Trend Analysis
+Business Intelligence
 
-6. 📷 Screenshots / Demos
-Dashboard Preview
-   ![Advanced Spotify Dashboard](https://github.com/safoora-kounain-22/Advanced-Spotify-Dashboard/blob/main/Advanced%20Spotify%20Dashboard.png)
+11. Dashboard Preview
+Show what the dashboard looks like.
+![Advanced Spotify Dashboard](Advanced%20Spotify%20Dashboard.png)
