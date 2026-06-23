@@ -92,6 +92,7 @@ Explicit songs represented a larger share of the dataset.
 Certain artists dominated the platform with higher song counts.
 Popularity trends varied across different months.
 Interactive analysis enables users to explore music patterns efficiently.
+
 6. 📷 Screenshots / Demos
 Dashboard Preview
    ![Advanced Spotify Dashboard](https://github.com/safoora-kounain-22/Advanced-Spotify-Dashboard/blob/main/Advanced%20Spotify%20Dashboard.png)
